@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Joe's Portfolio</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Joe Roman">
+    <meta name="description" content="Joe Roman is an up and coming freelance writer, author and poet.">
+    <meta property="og:title" content="Joe's Portfolio">
+    <meta property="og:description" content="Joe Roman is an up and coming freelance writer, author and poet.">
+<div class="top-nav">
+<nav class="nav-el">
+  <ul>
+    <li><a href="/index.html">Home</a></li>
+    <li><a href="/about.html">About Me</a></li>
+    <li><a href="/samples.html">Samples</a></li>
+    <li><a href="/contact.html">Contact Me</a></li>
+  </ul>
+</nav>
+</div>
+<section class="main-el">
+<div class="main-content">
+<div class="center-image">
+<img src="placeholderimage" title="freelance writer" alt="">
+</div>
+<div class="3col">
+  <a href="/about.html"></a><img src="placeholder" alt="">
+  <div class="box1"><h3>About the Author</h3>
+<p>Lorum ipsum etc</p>
+  </div>
+  <a href="/samples.html"></a><img src="placeholder" alt="">
+  <div class="box2"><h3>Samples</h3>
+<p>View samples, etc.</p>
+  </div>
+  <a href="/contact.html"></a><img src="placeholder" alt="">
+  <div class="box3"><h3>Contact</h3>
+<p>Contact me!</p>
+  </div>
+</div>
+</div>
+<footer id="main-footer">
+	<div id="footer-bottom">
+		<div class="container">
+			<ul class="social-media">
+      <li class="social-icon">
+      <a href="placeholder" class="icon">
+		</a>
+	</li>
+</ul>
+	<p id="footer-info">Copyright Joe D. Roman, 2018</p>
+	</div>
+	 </div>
+   </footer>
+</section>
+</body>
+</html>
